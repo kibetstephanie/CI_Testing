@@ -5,7 +5,7 @@ FROM python:latest
 
 
 
-# Author: Victor
+# Author: Stephanie
 
 LABEL maintainer="Stephanie Kibet <stephanie.kibet@student.moringaschool.com>"
 
